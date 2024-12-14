@@ -1,0 +1,1 @@
+This repository showcases a subtle error that can occur in COBOL programs involving loops and data manipulation. The `bug.cob` file contains code that unintentionally leads to an incorrect counter value, while `bugSolution.cob` offers a corrected version with an explanation of the fix.
